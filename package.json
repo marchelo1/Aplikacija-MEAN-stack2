@@ -1,0 +1,31 @@
+{
+  "name": "aplikacijamean2",
+  "version": "1.0.0",
+  "description": "MEAN stack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marchelo1/Aplikacija-MEAN-stack2.git"
+  },
+  "keywords": [
+    "MEAN",
+    "angular2"
+  ],
+  "author": "MV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marchelo1/Aplikacija-MEAN-stack2/issues"
+  },
+  "homepage": "https://github.com/marchelo1/Aplikacija-MEAN-stack2#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.0",
+    "mongoose": "^5.0.11"
+  }
+}
