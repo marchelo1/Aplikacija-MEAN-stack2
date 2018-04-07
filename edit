@@ -1,0 +1,23 @@
+[33mcommit 9975048b92b276e5bc7348603e1bb160eba06447[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Marko <marko@gmail.com>
+Date:   Mon Apr 2 00:41:50 2018 +0200
+
+    second commit
+
+[33mcommit b750f95b81ae80c2bf22532f5f35b743ac78a756[m[33m ([m[1;31morigin/server-setup[m[33m)[m
+Author: Marko <marko@gmail.com>
+Date:   Sat Mar 24 12:25:47 2018 +0100
+
+    server-setup
+
+[33mcommit 30b6bbd6227aba6eee3fb27398dd0927303f5735[m
+Author: Marko <marko@gmail.com>
+Date:   Fri Mar 23 15:36:59 2018 +0100
+
+    server-setup
+
+[33mcommit 46c60dadbef3cb13da2558b9358e522e272ddb7a[m
+Author: Marko <marko@gmail.com>
+Date:   Fri Mar 23 13:09:18 2018 +0100
+
+    first commit
